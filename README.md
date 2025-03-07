@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/yashsarvaiya1/"><img src="https://github-profile-trophy.vercel.app/?username=yashsarvaiya" alt="Yash Sarvaiya" /></a> </p>
 
-- 🔭 I’m currently working on [Flutter Flow Projects](https://app.flutterflow.io/dashboard)
+- 🔭 I’m currently working on [Flutter Projects](https://app.flutterflow.io/dashboard)
 
-- 🌱 I’m currently learning **Data Modeling, Flutter Flow, Svelte, Cloud Services, Unreal Engine**
+- 🌱 I’m currently learning **Data Modeling, Flutter, Svelte, Cloud Services, Unreal Engine**
 
 - 📫 How to reach me **iamyashsarvaiya@gmail.com**
 
