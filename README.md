@@ -1,7 +1,7 @@
 <div align="center">
   
-# 👋 Hi, I'm **Yash Sarvaiya**  
-## 🚀 Team Lead | Full-Stack Developer | DevOps Engineer | AI Agent Architect  
+# 👋 Hi, I'm **Yash Sarvaiya**
+## 🚀 Team Lead | 💻 Full-Stack Architect | 🤖 AI Agent Developer | ⚙️ DevOps Engineer
 
 <img src="https://user-images.githubusercontent.com/74038190/216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7.gif" width="600" alt="developer-animation">
 
