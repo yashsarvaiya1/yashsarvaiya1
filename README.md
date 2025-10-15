@@ -59,9 +59,9 @@ Leading development teams to build **financial systems**, **AI-powered platforms
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 
 ### ⚡ Backend & Database
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django REST Framework](https://img.shields.io/badge/Django_REST-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 📱 Mobile & AI
@@ -126,7 +126,7 @@ Leading development teams to build **financial systems**, **AI-powered platforms
 <td width="50%" valign="top">
 
 ### 🏦 Enterprise Financial Platform
-**Team**: 4 Developers | **Stack**: Next.js + FastAPI
+**Team**: 4 Developers | **Stack**: Next.js + Django REST Framework
 - Banking integration & lending workflows
 - Real-time transaction processing
 - **Deploy**: Docker + Kubernetes + GitHub Actions
@@ -146,7 +146,7 @@ Leading development teams to build **financial systems**, **AI-powered platforms
 <td width="50%" valign="top">
 
 ### 📊 ERP Dashboard Suite
-**Stack**: Next.js + TypeScript + FastAPI
+**Stack**: Next.js + TypeScript + Django REST Framework
 - Inventory, orders & analytics dashboard
 - **Mobile**: Expo companion app
 
@@ -203,7 +203,7 @@ React Query + TypeScript
 </td>
 <td width="25%" align="center">
 <strong>⚡ Backend</strong><br/>
-FastAPI + Pydantic<br/>
+Django REST Framework<br/>
 PostgreSQL + API Design
 </td>
 <td width="25%" align="center">
@@ -247,8 +247,8 @@ Docker + Kubernetes
 </tr>
 <tr>
 <td align="center"><strong>API</strong></td>
-<td align="center">FastAPI + Pydantic</td>
-<td align="center">High-performance validation & docs</td>
+<td align="center">Django REST Framework</td>
+<td align="center">RESTful APIs & serialization</td>
 </tr>
 <tr>
 <td align="center"><strong>Database</strong></td>
